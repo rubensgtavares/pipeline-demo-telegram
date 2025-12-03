@@ -1,5 +1,3 @@
-## 📡 Data Pipeline — Telegram Messages (AWS Data Lake)
-
 # 📡 Data Pipeline — Telegram Messages (AWS Data Lake)
 
 Este repositório demonstra um pipeline completo de ingestão, transformação e análise de mensagens do Telegram utilizando serviços da AWS.
