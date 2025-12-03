@@ -108,6 +108,7 @@ SELECT context_date, COUNT(*) AS total
 FROM telegram
 GROUP BY context_date
 ORDER BY context_date;
+````
 
 ## 📊 EDA — Análise Exploratória
 
@@ -147,7 +148,7 @@ Colunas auxiliares criadas:
 1. Clone o repositório
 
 ```bash
-git clone https://github.com/SEU_USUARIO/pipeline-demo-telegram
+git clone https://github.com/rubensgtavares/pipeline-demo-telegram
 cd pipeline-demo-telegram
 ````
 
