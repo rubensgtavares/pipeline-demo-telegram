@@ -5,6 +5,8 @@ Este repositório demonstra um pipeline completo de ingestão, transformação e
 O projeto utiliza uma arquitetura Data Lake com camadas RAW e ENRICHED, funções Lambda, orquestração com EventBridge, catalogação com Glue e consultas analíticas com Athena.  
 A análise final (EDA) é realizada em Python com Pandas, Matplotlib e Seaborn.
 
+Link do Kaggle: https://www.kaggle.com/code/rubensgabrieltavares/data-pipeline-telegram-messages-ebac
+
 ---
 
 ## 🚀 Arquitetura Geral
